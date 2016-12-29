@@ -1,2 +1,4 @@
 lalalala desde clase2clone
 lalala desde clase2
+
+lalalala desde clase2clone branch1
